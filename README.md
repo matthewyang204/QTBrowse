@@ -1,5 +1,5 @@
 # QTBrowse
- A python-based browser built from Python and PyQT5
+ A single-tabbed python-based browser built from Python and PyQT5
 
  Installation:
  1. Download the source code for the version you want to use
